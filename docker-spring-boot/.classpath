@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/activation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/asm-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/asm-attrs-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/cglib-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.bsh-2.0.0.b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.com.caucho-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.com.ibatis-2.3.4.726.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.commonj-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.edu.emory.mathcs.backport-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.javax.inject-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.javax.jdo-2.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.apache.commons.fileupload-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.apache.commons.httpclient-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.apache.taglibs.standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.codehaus.groovy-1.6.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.jruby-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.junit-4.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.quartz-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/com.springsource.org.testng-5.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-email-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-fileupload-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-io-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/dumbster-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/easymock.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/hibernate-commons-annotations-3.0.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/hibernate-search-3.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/hibernate-validator-4.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jamon-2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jaxb-impl-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jmxremote.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jmxremote_optional.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jmxri.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jotm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/lucene-highlighter-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/mysql-connector-java-5.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.aop-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.aspects-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.config.java-1.0.0.M4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.context.support-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.instrument.tomcat-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.instrument-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.jms-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.orm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.oxm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.test-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.web.portlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.web.servlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.web.struts-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/org.springframework.web-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/persistence.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/quartz-1.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/spring-hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/spring-javaconfig.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/xapool.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Purvi/Downloads/springjar/xmlunit-1.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
